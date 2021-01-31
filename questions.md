@@ -1,0 +1,9 @@
+- How long can NER entities be? If were handling groups which might be quite long?
+- How big can the text be?
+-   also, quantify the max length of abstracts
+-   also, there might be a way to split sentences? How to do this.
+-   better option might be to eliminate sentences that contain no relevant info.
+- How could one go about fine-tunning, given new data.
+-   How to expand the vocabulary?
+- How to use multiple models (ACE relations, GENIA NER, drugs on top)
+-   Can one train one dataset after the other?
